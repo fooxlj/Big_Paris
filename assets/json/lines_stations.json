@@ -1,0 +1,3170 @@
+[
+    {
+        "PROPERTIES": {
+            "ID": "1",
+            "NOM": "LIGNE 1"
+        },
+        "STATION": [
+            {
+                "id": "1962",
+                "station": "CHATEAU DE VINCENNES",
+                "coordinates": [
+                    2.43950970545674,
+                    48.8445363116503
+                ]
+            },
+            {
+                "id": "1938",
+                "station": "BERAULT",
+                "coordinates": [
+                    2.42923849792977,
+                    48.8453342425325
+                ]
+            },
+            {
+                "id": "1690",
+                "station": "SAINT MANDE",
+                "coordinates": [
+                    2.41867310093048,
+                    48.8462977572576
+                ]
+            },
+            {
+                "id": "1733",
+                "station": "PORTE DE VINCENNES",
+                "coordinates": [
+                    2.40888352534985,
+                    48.8472657113718
+                ]
+            },
+            {
+                "id": "1758",
+                "station": "NATION",
+                "coordinates": [
+                    2.39590574456544,
+                    48.8484657505532
+                ]
+            },
+            {
+                "id": "1662",
+                "station": "REUILLY-DIDEROT",
+                "coordinates": [
+                    2.38611818658013,
+                    48.8472381327386
+                ]
+            },
+            {
+                "id": "1839",
+                "station": "GARE DE LYON ",
+                "coordinates": [
+                    2.37406590751466,
+                    48.8447045450658
+                ]
+            },
+            {
+                "id": "2000",
+                "station": "BASTILLE",
+                "coordinates": [
+                    2.36918060506559,
+                    48.8528417309667
+                ]
+            },
+            {
+                "id": "1695",
+                "station": "SAINT-PAUL",
+                "coordinates": [
+                    2.36065335403361,
+                    48.8551436006388
+                ]
+            },
+            {
+                "id": "1855",
+                "station": "HOTEL DE VILLE",
+                "coordinates": [
+                    2.35149453979435,
+                    48.8567695272423
+                ]
+            },
+            {
+                "id": "1964",
+                "station": "CHATELET",
+                "coordinates": [
+                    2.34711940104793,
+                    48.8585195224421
+                ]
+            },
+            {
+                "id": "1809",
+                "station": "LOUVRE-RIVOLI",
+                "coordinates": [
+                    2.34100049025543,
+                    48.8605382946574
+                ]
+            },
+            {
+                "id": "1774",
+                "station": "PALAIS-ROYAL",
+                "coordinates": [
+                    2.33581661194832,
+                    48.8628468213553
+                ]
+            },
+            {
+                "id": "1640",
+                "station": "TUILERIES",
+                "coordinates": [
+                    2.33031418026416,
+                    48.8644970966975
+                ]
+            },
+            {
+                "id": "1885",
+                "station": "CONCORDE",
+                "coordinates": [
+                    2.32329987859148,
+                    48.8661829956315
+                ]
+            },
+            {
+                "id": "1949",
+                "station": "CHAMPS-ELYSEES-CLEMENCEAU",
+                "coordinates": [
+                    2.31395945009909,
+                    48.8674114214171
+                ]
+            },
+            {
+                "id": "1924",
+                "station": "FRANKLIN D. ROOSEVELT",
+                "coordinates": [
+                    2.30830876451203,
+                    48.8693052286485
+                ]
+            },
+            {
+                "id": "1846",
+                "station": "GEORGE V",
+                "coordinates": [
+                    2.30046268343343,
+                    48.8719825731694
+                ]
+            },
+            {
+                "id": "1953",
+                "station": "CHARLES DE GAULLE-ETOILE",
+                "coordinates": [
+                    2.29576268465124,
+                    48.8744076036607
+                ]
+            },
+            {
+                "id": "1986",
+                "station": "ARGENTINE",
+                "coordinates": [
+                    2.2893216639617,
+                    48.875533092935
+                ]
+            },
+            {
+                "id": "1716",
+                "station": "PORTE MAILLOT",
+                "coordinates": [
+                    2.28183617255428,
+                    48.877964502968
+                ]
+            },
+            {
+                "id": "1802",
+                "station": "LES SABLONS",
+                "coordinates": [
+                    2.27253908542214,
+                    48.880901799077
+                ]
+            },
+            {
+                "id": "1709",
+                "station": "PONT DE NEUILLY",
+                "coordinates": [
+                    2.25989172465632,
+                    48.8845093796136
+                ]
+            },
+            {
+                "id": "1913",
+                "station": "ESPLANADE DE LA DEFENSE",
+                "coordinates": [
+                    2.25044232471862,
+                    48.887843122138
+                ]
+            },
+            {
+                "id": "1850",
+                "station": "LA DEFENSE",
+                "coordinates": [
+                    2.23788279833084,
+                    48.8919344692345
+                ]
+            }
+        ]
+    },
+    {
+        "PROPERTIES": {
+            "ID": "2",
+            "NOM": "LIGNE 2"
+        },
+        "STATION": [
+            {
+                "id": "1714",
+                "station": "PORTE DAUPHINE",
+                "coordinates": [
+                    2.2766480745793,
+                    48.8716448024995
+                ]
+            },
+            {
+                "id": "1648",
+                "station": "VICTOR HUGO",
+                "coordinates": [
+                    2.28526726839526,
+                    48.8696716618644
+                ]
+            },
+            {
+                "id": "1953",
+                "station": "CHARLES DE GAULLE-ETOILE",
+                "coordinates": [
+                    2.29576268465124,
+                    48.8744076036607
+                ]
+            },
+            {
+                "id": "1635",
+                "station": "TERNES",
+                "coordinates": [
+                    2.29803071264819,
+                    48.8780661989513
+                ]
+            },
+            {
+                "id": "1892",
+                "station": "COURCELLES",
+                "coordinates": [
+                    2.30360515293852,
+                    48.8792362487704
+                ]
+            },
+            {
+                "id": "1749",
+                "station": "MONCEAU",
+                "coordinates": [
+                    2.30896624223491,
+                    48.8806306676395
+                ]
+            },
+            {
+                "id": "1654",
+                "station": "VILLIERS",
+                "coordinates": [
+                    2.31527055095629,
+                    48.8810543983372
+                ]
+            },
+            {
+                "id": "1670",
+                "station": "ROME",
+                "coordinates": [
+                    2.32098414419979,
+                    48.8825292240735
+                ]
+            },
+            {
+                "id": "1790",
+                "station": "PLACE CLICHY",
+                "coordinates": [
+                    2.32730682210246,
+                    48.8836233671973
+                ]
+            },
+            {
+                "id": "2009",
+                "station": "BLANCHE",
+                "coordinates": [
+                    2.33166752315741,
+                    48.8836536085134
+                ]
+            },
+            {
+                "id": "1787",
+                "station": "PIGALLE",
+                "coordinates": [
+                    2.3376226051814,
+                    48.8824943850352
+                ]
+            },
+            {
+                "id": "1984",
+                "station": "ANVERS",
+                "coordinates": [
+                    2.34397282520569,
+                    48.8831322902739
+                ]
+            },
+            {
+                "id": "1999",
+                "station": "BARBES-ROCHECHOUART",
+                "coordinates": [
+                    2.34973719426844,
+                    48.8836207315381
+                ]
+            },
+            {
+                "id": "1868",
+                "station": "LA CHAPELLE",
+                "coordinates": [
+                    2.35849962591676,
+                    48.8839663987791
+                ]
+            },
+            {
+                "id": "1627",
+                "station": "STALINGRAD",
+                "coordinates": [
+                    2.3670850145355,
+                    48.88430478953
+                ]
+            },
+            {
+                "id": "1861",
+                "station": "JAURES",
+                "coordinates": [
+                    2.37023181919226,
+                    48.8825437461168
+                ]
+            },
+            {
+                "id": "1972",
+                "station": "COLONEL FABIEN",
+                "coordinates": [
+                    2.37014713779616,
+                    48.8779422921331
+                ]
+            },
+            {
+                "id": "2004",
+                "station": "BELLEVILLE",
+                "coordinates": [
+                    2.37680560769084,
+                    48.8720416041714
+                ]
+            },
+            {
+                "id": "1893",
+                "station": "COURONNES",
+                "coordinates": [
+                    2.379868518699,
+                    48.8689698757764
+                ]
+            },
+            {
+                "id": "1754",
+                "station": "MENILMONTANT",
+                "coordinates": [
+                    2.38339427851543,
+                    48.8659488111593
+                ]
+            },
+            {
+                "id": "1741",
+                "station": "PERE LACHAISE",
+                "coordinates": [
+                    2.38672181193918,
+                    48.8626131584417
+                ]
+            },
+            {
+                "id": "1784",
+                "station": "PHILIPPE AUGUSTE",
+                "coordinates": [
+                    2.38938739145325,
+                    48.8583654720925
+                ]
+            },
+            {
+                "id": "1978",
+                "station": "ALEXANDRE DUMAS",
+                "coordinates": [
+                    2.3949898158233,
+                    48.8561744489676
+                ]
+            },
+            {
+                "id": "1995",
+                "station": "AVRON",
+                "coordinates": [
+                    2.39798013009568,
+                    48.8509782113622
+                ]
+            },
+            {
+                "id": "1758",
+                "station": "NATION",
+                "coordinates": [
+                    2.39590574456544,
+                    48.8484657505532
+                ]
+            }
+        ]
+    },
+    {
+        "PROPERTIES": {
+            "ID": "3",
+            "NOM": "LIGNE 3"
+        },
+        "STATION": [
+            {
+                "id": "1708",
+                "station": "PONT DE LEVALLOIS-BECON",
+                "coordinates": [
+                    2.28048941733931,
+                    48.8971187551468
+                ]
+            },
+            {
+                "id": "1982",
+                "station": "ANATOLE FRANCE",
+                "coordinates": [
+                    2.285373878396,
+                    48.8924723754181
+                ]
+            },
+            {
+                "id": "1807",
+                "station": "LOUISE MICHEL",
+                "coordinates": [
+                    2.28813731087893,
+                    48.8888292427619
+                ]
+            },
+            {
+                "id": "1722",
+                "station": "PORTE DE CHAMPERRET",
+                "coordinates": [
+                    2.29274204135011,
+                    48.8855507197363
+                ]
+            },
+            {
+                "id": "1740",
+                "station": "PEREIRE",
+                "coordinates": [
+                    2.29751704870328,
+                    48.8845503317922
+                ]
+            },
+            {
+                "id": "1658",
+                "station": "WAGRAM",
+                "coordinates": [
+                    2.30465144209881,
+                    48.8838739610152
+                ]
+            },
+            {
+                "id": "1826",
+                "station": "MALESHERBES",
+                "coordinates": [
+                    2.30969409432085,
+                    48.8828147397743
+                ]
+            },
+            {
+                "id": "1654",
+                "station": "VILLIERS",
+                "coordinates": [
+                    2.31527055095629,
+                    48.8810543983372
+                ]
+            },
+            {
+                "id": "1915",
+                "station": "EUROPE",
+                "coordinates": [
+                    2.32282484061213,
+                    48.8787098768874
+                ]
+            },
+            {
+                "id": "1689",
+                "station": "SAINT-LAZARE",
+                "coordinates": [
+                    2.326185658552,
+                    48.8755778691635
+                ]
+            },
+            {
+                "id": "1852",
+                "station": "HAVRE-CAUMARTIN",
+                "coordinates": [
+                    2.3285077502868,
+                    48.8733427700542
+                ]
+            },
+            {
+                "id": "1771",
+                "station": "OPERA",
+                "coordinates": [
+                    2.33180515640395,
+                    48.8707029411588
+                ]
+            },
+            {
+                "id": "1744",
+                "station": "QUATRE-9EMBRE",
+                "coordinates": [
+                    2.33574247484458,
+                    48.8693729306069
+                ]
+            },
+            {
+                "id": "1930",
+                "station": "BOURSE",
+                "coordinates": [
+                    2.34123268333609,
+                    48.8687976838596
+                ]
+            },
+            {
+                "id": "1702",
+                "station": "SENTIER",
+                "coordinates": [
+                    2.3466136387446,
+                    48.8674133308826
+                ]
+            },
+            {
+                "id": "1676",
+                "station": "REAUMUR-SEBASTOPOL",
+                "coordinates": [
+                    2.35203525525425,
+                    48.8663118301881
+                ]
+            },
+            {
+                "id": "1988",
+                "station": "ARTS ET METIERS",
+                "coordinates": [
+                    2.35637778086357,
+                    48.8652929436681
+                ]
+            },
+            {
+                "id": "1634",
+                "station": "TEMPLE",
+                "coordinates": [
+                    2.36108072227889,
+                    48.8663687823143
+                ]
+            },
+            {
+                "id": "1679",
+                "station": "REPUBLIQUE",
+                "coordinates": [
+                    2.36366959820676,
+                    48.8674860390566
+                ]
+            },
+            {
+                "id": "1779",
+                "station": "PARMENTIER",
+                "coordinates": [
+                    2.37584679468414,
+                    48.8651606067898
+                ]
+            },
+            {
+                "id": "1693",
+                "station": "SAINT-MAUR",
+                "coordinates": [
+                    2.38007329534159,
+                    48.8639878082439
+                ]
+            },
+            {
+                "id": "1741",
+                "station": "PERE LACHAISE",
+                "coordinates": [
+                    2.38672181193918,
+                    48.8626131584417
+                ]
+            },
+            {
+                "id": "1929",
+                "station": "GAMBETTA",
+                "coordinates": [
+                    2.39846223866212,
+                    48.8648347782704
+                ]
+            },
+            {
+                "id": "1721",
+                "station": "PORTE DE BAGNOLET",
+                "coordinates": [
+                    2.40799995272687,
+                    48.8643963044636
+                ]
+            },
+            {
+                "id": "1928",
+                "station": "GALLIENI",
+                "coordinates": [
+                    2.41568260426712,
+                    48.8633345779424
+                ]
+            }
+        ]
+    },
+    {
+        "PROPERTIES": {
+            "ID": "3bis",
+            "NOM": "LIGNE 3bis"
+        },
+        "STATION": [
+            {
+                "id": "1736",
+                "station": "PORTE DES LILAS",
+                "coordinates": [
+                    2.40638582344912,
+                    48.8770699912197
+                ]
+            },
+            {
+                "id": "1684",
+                "station": "SAINT-FARGEAU",
+                "coordinates": [
+                    2.40485763553065,
+                    48.871951099492
+                ]
+            },
+            {
+                "id": "1782",
+                "station": "PELLEPORT",
+                "coordinates": [
+                    2.40135199013901,
+                    48.868519874537
+                ]
+            },
+            {
+                "id": "1929",
+                "station": "GAMBETTA",
+                "coordinates": [
+                    2.39846223866212,
+                    48.8648347782704
+                ]
+            }
+        ]
+    },
+    {
+        "PROPERTIES": {
+            "ID": "4",
+            "NOM": "LIGNE 4"
+        },
+        "STATION": [
+            {
+                "id": "1726",
+                "station": "PORTE DE CLIGNANCOURT",
+                "coordinates": [
+                    2.34477887737988,
+                    48.8972870603971
+                ]
+            },
+            {
+                "id": "1621",
+                "station": "SIMPLON",
+                "coordinates": [
+                    2.34709106533484,
+                    48.8946326891969
+                ]
+            },
+            {
+                "id": "1828",
+                "station": "MARCADET-POISSONNIERS",
+                "coordinates": [
+                    2.34983707163005,
+                    48.8908769929214
+                ]
+            },
+            {
+                "id": "1960",
+                "station": "CHATEAU ROUGE",
+                "coordinates": [
+                    2.34982663344309,
+                    48.8871760670966
+                ]
+            },
+            {
+                "id": "1999",
+                "station": "BARBES-ROCHECHOUART",
+                "coordinates": [
+                    2.34973719426844,
+                    48.8836207315381
+                ]
+            },
+            {
+                "id": "1842",
+                "station": "GARE DU NORD",
+                "coordinates": [
+                    2.35470307836603,
+                    48.8799654432891
+                ]
+            },
+            {
+                "id": "1841",
+                "station": "GARE DE L'EST",
+                "coordinates": [
+                    2.35791867724751,
+                    48.8760613055252
+                ]
+            },
+            {
+                "id": "1961",
+                "station": "CHATEAU D'EAU",
+                "coordinates": [
+                    2.35547036877069,
+                    48.8725890109106
+                ]
+            },
+            {
+                "id": "1628",
+                "station": "STRASBOURG-SAINT-DENIS",
+                "coordinates": [
+                    2.35409710573389,
+                    48.8691997057755
+                ]
+            },
+            {
+                "id": "1676",
+                "station": "REAUMUR-SEBASTOPOL",
+                "coordinates": [
+                    2.35203525525425,
+                    48.8663118301881
+                ]
+            },
+            {
+                "id": "1914",
+                "station": "ETIENNE MARCEL",
+                "coordinates": [
+                    2.34866984004444,
+                    48.8634946589771
+                ]
+            },
+            {
+                "id": "1801",
+                "station": "LES HALLES",
+                "coordinates": [
+                    2.34583626729201,
+                    48.862194721152
+                ]
+            },
+            {
+                "id": "1964",
+                "station": "CHATELET",
+                "coordinates": [
+                    2.34711940104793,
+                    48.8585195224421
+                ]
+            },
+            {
+                "id": "1969",
+                "station": "CITE",
+                "coordinates": [
+                    2.3467203742446,
+                    48.8551005857888
+                ]
+            },
+            {
+                "id": "1694",
+                "station": "SAINT-MICHEL",
+                "coordinates": [
+                    2.34346845196892,
+                    48.8532875817267
+                ]
+            },
+            {
+                "id": "1770",
+                "station": "ODEON",
+                "coordinates": [
+                    2.33855755868422,
+                    48.8522489363668
+                ]
+            },
+            {
+                "id": "1687",
+                "station": "SAINT-GERMAIN DES PRES",
+                "coordinates": [
+                    2.33372046538119,
+                    48.8536134867907
+                ]
+            },
+            {
+                "id": "1698",
+                "station": "SAINT-SULPICE",
+                "coordinates": [
+                    2.33086756439724,
+                    48.8508047851976
+                ]
+            },
+            {
+                "id": "1697",
+                "station": "SAINT-PLACIDE",
+                "coordinates": [
+                    2.32693263560201,
+                    48.8465803886283
+                ]
+            },
+            {
+                "id": "1751",
+                "station": "MONTPARNASSE-BIENVENUE",
+                "coordinates": [
+                    2.32263505064878,
+                    48.8430428502558
+                ]
+            },
+            {
+                "id": "1646",
+                "station": "VAVIN",
+                "coordinates": [
+                    2.32900321886739,
+                    48.8420036541946
+                ]
+            },
+            {
+                "id": "1660",
+                "station": "RASPAIL",
+                "coordinates": [
+                    2.33058309684112,
+                    48.8389637143162
+                ]
+            },
+            {
+                "id": "1902",
+                "station": "DENFERT-ROCHEREAU",
+                "coordinates": [
+                    2.33189346001924,
+                    48.8335919035577
+                ]
+            },
+            {
+                "id": "1753",
+                "station": "MOUTON-DUVERNET",
+                "coordinates": [
+                    2.32942693483694,
+                    48.8313196995984
+                ]
+            },
+            {
+                "id": "1981",
+                "station": "ALESIA",
+                "coordinates": [
+                    2.32674567371924,
+                    48.828398514348
+                ]
+            },
+            {
+                "id": "1720",
+                "station": "PORTE D'ORLEANS",
+                "coordinates": [
+                    2.3248055530705,
+                    48.8226012875276
+                ]
+            }
+        ]
+    },
+    {
+        "PROPERTIES": {
+            "ID": "5",
+            "NOM": "LIGNE 5"
+        },
+        "STATION": [
+            {
+                "id": "2010",
+                "station": "BOBIGNY-PABLO PICASSO",
+                "coordinates": [
+                    2.44962071744096,
+                    48.9069699442981
+                ]
+            },
+            {
+                "id": "2011",
+                "station": "BOBIGNY-PANTIN-RAYMOND QUENEAU",
+                "coordinates": [
+                    2.42480187771966,
+                    48.8952689905167
+                ]
+            },
+            {
+                "id": "1912",
+                "station": "EGLISE DE PANTIN",
+                "coordinates": [
+                    2.41328568033304,
+                    48.893113981741
+                ]
+            },
+            {
+                "id": "1853",
+                "station": "HOCHE",
+                "coordinates": [
+                    2.40319741378238,
+                    48.8913165639098
+                ]
+            },
+            {
+                "id": "1728",
+                "station": "PORTE DE PANTIN",
+                "coordinates": [
+                    2.39146861403051,
+                    48.8883327364608
+                ]
+            },
+            {
+                "id": "1773",
+                "station": "OURCQ",
+                "coordinates": [
+                    2.38602958795485,
+                    48.8869750227319
+                ]
+            },
+            {
+                "id": "1882",
+                "station": "LAUMIERE",
+                "coordinates": [
+                    2.3795955531979,
+                    48.8850422338428
+                ]
+            },
+            {
+                "id": "1861",
+                "station": "JAURES",
+                "coordinates": [
+                    2.37023181919226,
+                    48.8825437461168
+                ]
+            },
+            {
+                "id": "1627",
+                "station": "STALINGRAD",
+                "coordinates": [
+                    2.3670850145355,
+                    48.88430478953
+                ]
+            },
+            {
+                "id": "1842",
+                "station": "GARE DU NORD",
+                "coordinates": [
+                    2.35470307836603,
+                    48.8799654432891
+                ]
+            },
+            {
+                "id": "1841",
+                "station": "GARE DE L'EST",
+                "coordinates": [
+                    2.35791867724751,
+                    48.8760613055252
+                ]
+            },
+            {
+                "id": "1859",
+                "station": "JACQUES BONSERGENT",
+                "coordinates": [
+                    2.36053788394075,
+                    48.8709749040173
+                ]
+            },
+            {
+                "id": "1679",
+                "station": "REPUBLIQUE",
+                "coordinates": [
+                    2.36366959820676,
+                    48.8674860390566
+                ]
+            },
+            {
+                "id": "1769",
+                "station": "OBERKAMPF",
+                "coordinates": [
+                    2.36867423637139,
+                    48.8645156235565
+                ]
+            },
+            {
+                "id": "1664",
+                "station": "RICHARD LENOIR",
+                "coordinates": [
+                    2.3720977804711,
+                    48.8608927535125
+                ]
+            },
+            {
+                "id": "1933",
+                "station": "BREGUET-SABIN",
+                "coordinates": [
+                    2.3709371333348,
+                    48.8565162145681
+                ]
+            },
+            {
+                "id": "2000",
+                "station": "BASTILLE",
+                "coordinates": [
+                    2.36918060506559,
+                    48.8528417309667
+                ]
+            },
+            {
+                "id": "1743",
+                "station": "QUAI DE LA RAPEE",
+                "coordinates": [
+                    2.36703563413483,
+                    48.8457951983436
+                ]
+            },
+            {
+                "id": "1838",
+                "station": "GARE D'AUSTERLITZ",
+                "coordinates": [
+                    2.36431304821499,
+                    48.8431055835176
+                ]
+            },
+            {
+                "id": "1691",
+                "station": "SAINT-MARCEL",
+                "coordinates": [
+                    2.36140877914038,
+                    48.8395141857768
+                ]
+            },
+            {
+                "id": "1941",
+                "station": "CAMPO-FORMIO",
+                "coordinates": [
+                    2.35815314107711,
+                    48.8357759721732
+                ]
+            },
+            {
+                "id": "1789",
+                "station": "PLACE D'ITALIE",
+                "coordinates": [
+                    2.35572137338498,
+                    48.8314061535553
+                ]
+            }
+        ]
+    },
+    {
+        "PROPERTIES": {
+            "ID": "6",
+            "NOM": "LIGNE 6"
+        },
+        "STATION": [
+            {
+                "id": "1953",
+                "station": "CHARLES DE GAULLE-ETOILE",
+                "coordinates": [
+                    2.29576268465124,
+                    48.8744076036607
+                ]
+            },
+            {
+                "id": "1867",
+                "station": "KLEBER",
+                "coordinates": [
+                    2.29307915421584,
+                    48.8710948130145
+                ]
+            },
+            {
+                "id": "2012",
+                "station": "BOISSIERE",
+                "coordinates": [
+                    2.29047384540453,
+                    48.8670270457182
+                ]
+            },
+            {
+                "id": "1639",
+                "station": "TROCADERO",
+                "coordinates": [
+                    2.2870198439694,
+                    48.8629708358403
+                ]
+            },
+            {
+                "id": "1780",
+                "station": "PASSY",
+                "coordinates": [
+                    2.28586501138629,
+                    48.8576333212361
+                ]
+            },
+            {
+                "id": "2007",
+                "station": "BIR-HAKEIM",
+                "coordinates": [
+                    2.28878285580103,
+                    48.8543331586284
+                ]
+            },
+            {
+                "id": "1907",
+                "station": "DUPLEIX",
+                "coordinates": [
+                    2.29276958714394,
+                    48.8508056365633
+                ]
+            },
+            {
+                "id": "1874",
+                "station": "LA MOTTE-PICQUET-GRENELLE",
+                "coordinates": [
+                    2.29794929910712,
+                    48.8491605024288
+                ]
+            },
+            {
+                "id": "1940",
+                "station": "CAMBRONNE",
+                "coordinates": [
+                    2.30180780419231,
+                    48.8474563362776
+                ]
+            },
+            {
+                "id": "1633",
+                "station": "SEVRES-LECOURBE",
+                "coordinates": [
+                    2.31018390371145,
+                    48.8451307700065
+                ]
+            },
+            {
+                "id": "1781",
+                "station": "PASTEUR",
+                "coordinates": [
+                    2.31265644504969,
+                    48.8429383503106
+                ]
+            },
+            {
+                "id": "1751",
+                "station": "MONTPARNASSE-BIENVENUE",
+                "coordinates": [
+                    2.32263505064878,
+                    48.8430428502558
+                ]
+            },
+            {
+                "id": "1910",
+                "station": "EDGAR QUINET",
+                "coordinates": [
+                    2.3261713916465,
+                    48.8403339877984
+                ]
+            },
+            {
+                "id": "1660",
+                "station": "RASPAIL",
+                "coordinates": [
+                    2.33058309684112,
+                    48.8389637143162
+                ]
+            },
+            {
+                "id": "1902",
+                "station": "DENFERT-ROCHEREAU",
+                "coordinates": [
+                    2.33189346001924,
+                    48.8335919035577
+                ]
+            },
+            {
+                "id": "1688",
+                "station": "SAINT-JACQUES",
+                "coordinates": [
+                    2.33622001540028,
+                    48.8332522883745
+                ]
+            },
+            {
+                "id": "1848",
+                "station": "GLACIERE",
+                "coordinates": [
+                    2.34393889430969,
+                    48.8313647071449
+                ]
+            },
+            {
+                "id": "1890",
+                "station": "CORVISART",
+                "coordinates": [
+                    2.34943832730731,
+                    48.8296116848646
+                ]
+            },
+            {
+                "id": "1789",
+                "station": "PLACE D'ITALIE",
+                "coordinates": [
+                    2.35572137338498,
+                    48.8314061535553
+                ]
+            },
+            {
+                "id": "1761",
+                "station": "NATIONALE",
+                "coordinates": [
+                    2.36204546183122,
+                    48.8327104551183
+                ]
+            },
+            {
+                "id": "1959",
+                "station": "CHEVALERET",
+                "coordinates": [
+                    2.36716524071823,
+                    48.8344079354527
+                ]
+            },
+            {
+                "id": "1742",
+                "station": "QUAI DE LA GARE",
+                "coordinates": [
+                    2.37378388489769,
+                    48.8373989542089
+                ]
+            },
+            {
+                "id": "1906",
+                "station": "DUGOMMIER",
+                "coordinates": [
+                    2.38895257216093,
+                    48.8389122332307
+                ]
+            },
+            {
+                "id": "1901",
+                "station": "DAUMESNIL",
+                "coordinates": [
+                    2.39584590805199,
+                    48.8393629125482
+                ]
+            },
+            {
+                "id": "2003",
+                "station": "BEL AIR",
+                "coordinates": [
+                    2.40120562705964,
+                    48.8418961424237
+                ]
+            },
+            {
+                "id": "1785",
+                "station": "PICPUS",
+                "coordinates": [
+                    2.40125516453104,
+                    48.8452604478542
+                ]
+            },
+            {
+                "id": "1758",
+                "station": "NATION",
+                "coordinates": [
+                    2.39590574456544,
+                    48.8484657505532
+                ]
+            }
+        ]
+    },
+    {
+        "PROPERTIES": {
+            "ID": "7",
+            "NOM": "LIGNE 7"
+        },
+        "STATION": [
+            {
+                "id": "1869",
+                "station": "LA COURNEUVE-8 MAI 1945",
+                "coordinates": [
+                    2.41045542691904,
+                    48.9209043594324
+                ]
+            },
+            {
+                "id": "1923",
+                "station": "FORT D'AUBERVILLIERS",
+                "coordinates": [
+                    2.40417710143886,
+                    48.9146921997335
+                ]
+            },
+            {
+                "id": "1992",
+                "station": "AUBERVILLIERS-PANTIN-QUATRE CHEMINS",
+                "coordinates": [
+                    2.3920219501423,
+                    48.9038299162483
+                ]
+            },
+            {
+                "id": "1735",
+                "station": "PORTE DE LA VILLETTE",
+                "coordinates": [
+                    2.38580611263705,
+                    48.8978102190581
+                ]
+            },
+            {
+                "id": "1888",
+                "station": "CORENTIN CARIOU",
+                "coordinates": [
+                    2.38244550268222,
+                    48.8949061258374
+                ]
+            },
+            {
+                "id": "1894",
+                "station": "CRIMEE",
+                "coordinates": [
+                    2.37681528947191,
+                    48.8906811628606
+                ]
+            },
+            {
+                "id": "1666",
+                "station": "RIQUET",
+                "coordinates": [
+                    2.37448742568144,
+                    48.8881235581407
+                ]
+            },
+            {
+                "id": "1627",
+                "station": "STALINGRAD",
+                "coordinates": [
+                    2.3670850145355,
+                    48.88430478953
+                ]
+            },
+            {
+                "id": "1806",
+                "station": "LOUIS BLANC",
+                "coordinates": [
+                    2.3655569576092,
+                    48.8810261029957
+                ]
+            },
+            {
+                "id": "1963",
+                "station": "CHATEAU-LANDON",
+                "coordinates": [
+                    2.36229890860251,
+                    48.8783126784077
+                ]
+            },
+            {
+                "id": "1841",
+                "station": "GARE DE L'EST",
+                "coordinates": [
+                    2.35791867724751,
+                    48.8760613055252
+                ]
+            },
+            {
+                "id": "1706",
+                "station": "POISSONNIERE",
+                "coordinates": [
+                    2.34960623902438,
+                    48.8773395505122
+                ]
+            },
+            {
+                "id": "1939",
+                "station": "CADET",
+                "coordinates": [
+                    2.34305895381275,
+                    48.875475187116
+                ]
+            },
+            {
+                "id": "1795",
+                "station": "LE PELETIER",
+                "coordinates": [
+                    2.33980253815072,
+                    48.8749360634737
+                ]
+            },
+            {
+                "id": "1957",
+                "station": "CHAUSSEE D'ANTIN-LA FAYETTE",
+                "coordinates": [
+                    2.33350116136944,
+                    48.8728970365659
+                ]
+            },
+            {
+                "id": "1771",
+                "station": "OPERA",
+                "coordinates": [
+                    2.33180515640395,
+                    48.8707029411588
+                ]
+            },
+            {
+                "id": "1774",
+                "station": "PALAIS-ROYAL",
+                "coordinates": [
+                    2.33581661194832,
+                    48.8628468213553
+                ]
+            },
+            {
+                "id": "1712",
+                "station": "PONT NEUF",
+                "coordinates": [
+                    2.34194923634659,
+                    48.8584022524727
+                ]
+            },
+            {
+                "id": "1964",
+                "station": "CHATELET",
+                "coordinates": [
+                    2.34711940104793,
+                    48.8585195224421
+                ]
+            },
+            {
+                "id": "1711",
+                "station": "PONT MARIE",
+                "coordinates": [
+                    2.35745881597611,
+                    48.8533107454827
+                ]
+            },
+            {
+                "id": "1630",
+                "station": "SULLY-MORLAND",
+                "coordinates": [
+                    2.36186696356924,
+                    48.8510338403896
+                ]
+            },
+            {
+                "id": "1866",
+                "station": "JUSSIEU",
+                "coordinates": [
+                    2.35469159842714,
+                    48.8458380895278
+                ]
+            },
+            {
+                "id": "1788",
+                "station": "PLACE MONGE",
+                "coordinates": [
+                    2.35217845099659,
+                    48.8431960998294
+                ]
+            },
+            {
+                "id": "1944",
+                "station": "CENSIER-DAUBENTON",
+                "coordinates": [
+                    2.35142881208972,
+                    48.8405358795008
+                ]
+            },
+            {
+                "id": "1800",
+                "station": "LES GOBELINS",
+                "coordinates": [
+                    2.35164217355525,
+                    48.8366105352574
+                ]
+            },
+            {
+                "id": "1789",
+                "station": "PLACE D'ITALIE",
+                "coordinates": [
+                    2.35572137338498,
+                    48.8314061535553
+                ]
+            },
+            {
+                "id": "1636",
+                "station": "TOLBIAC",
+                "coordinates": [
+                    2.35724192740466,
+                    48.8265068988465
+                ]
+            },
+            {
+                "id": "1820",
+                "station": "MAISON BLANCHE",
+                "coordinates": [
+                    2.35818867672494,
+                    48.8226203194274
+                ]
+            },
+            {
+                "id": "1718",
+                "station": "PORTE D'ITALIE",
+                "coordinates": [
+                    2.35985580265649,
+                    48.8189346110715
+                ]
+            },
+            {
+                "id": "1724",
+                "station": "PORTE DE CHOISY",
+                "coordinates": [
+                    2.36434644526859,
+                    48.8201452157747
+                ]
+            },
+            {
+                "id": "1719",
+                "station": "PORTE D'IVRY",
+                "coordinates": [
+                    2.36909494347048,
+                    48.8212704974684
+                ]
+            },
+            {
+                "id": "1786",
+                "station": "PIERRE CURIE",
+                "coordinates": [
+                    2.3772866229916,
+                    48.8156836605119
+                ]
+            },
+            {
+                "id": "1815",
+                "station": "MAIRIE D'IVRY",
+                "coordinates": [
+                    2.3838082733405,
+                    48.8111784269088
+                ]
+            },
+            {
+                "id": "1793",
+                "station": "LE KREMLIN-BICETRE",
+                "coordinates": [
+                    2.36161295005801,
+                    48.8103806352167
+                ]
+            },
+            {
+                "id": "1650",
+                "station": "VILLEJUIF-LEO LAGRANGE",
+                "coordinates": [
+                    2.36394352657996,
+                    48.8041740664156
+                ]
+            },
+            {
+                "id": "1651",
+                "station": "VILLEJUIF-PAUL VAILLANT-COUTURIER",
+                "coordinates": [
+                    2.3679661373898,
+                    48.7959447270881
+                ]
+            },
+            {
+                "id": "1649",
+                "station": "VILLEJUIF-LOUIS ARAGON",
+                "coordinates": [
+                    2.36697471484243,
+                    48.7870020157205
+                ]
+            }
+        ]
+    },
+    {
+        "PROPERTIES": {
+            "ID": "7bis",
+            "NOM": "LIGNE 7bis"
+        },
+        "STATION": [
+            {
+                "id": "1806",
+                "station": "LOUIS BLANC",
+                "coordinates": [
+                    2.3655569576092,
+                    48.8810261029957
+                ]
+            },
+            {
+                "id": "1861",
+                "station": "JAURES",
+                "coordinates": [
+                    2.37023181919226,
+                    48.8825437461168
+                ]
+            },
+            {
+                "id": "2014",
+                "station": "BOLIVAR",
+                "coordinates": [
+                    2.37397783298056,
+                    48.8805834299155
+                ]
+            },
+            {
+                "id": "1936",
+                "station": "BUTTES-CHAUMONT",
+                "coordinates": [
+                    2.38112931956877,
+                    48.8777769835483
+                ]
+            },
+            {
+                "id": "2016",
+                "station": "BOTZARIS",
+                "coordinates": [
+                    2.38873399145736,
+                    48.8793377265439
+                ]
+            },
+            {
+                "id": "1900",
+                "station": "DANUBE",
+                "coordinates": [
+                    2.39270205235331,
+                    48.8820231366362
+                ]
+            },
+            {
+                "id": "1737",
+                "station": "PRE-SAINT-GERVAIS",
+                "coordinates": [
+                    2.39907689689178,
+                    48.8799349564117
+                ]
+            },
+            {
+                "id": "1737",
+                "station": "PRE-SAINT-GERVAIS",
+                "coordinates": [
+                    2.39907689689178,
+                    48.8799349564117
+                ]
+            },
+            {
+                "id": "2016",
+                "station": "BOTZARIS",
+                "coordinates": [
+                    2.38873399145736,
+                    48.8793377265439
+                ]
+            }
+        ]
+    },
+    {
+        "PROPERTIES": {
+            "ID": "8",
+            "NOM": "LIGNE 8"
+        },
+        "STATION": [
+            {
+                "id": "1997",
+                "station": "BALARD",
+                "coordinates": [
+                    2.27821832700082,
+                    48.8362754634973
+                ]
+            },
+            {
+                "id": "1808",
+                "station": "LOURMEL",
+                "coordinates": [
+                    2.28175852328733,
+                    48.8384881095778
+                ]
+            },
+            {
+                "id": "2017",
+                "station": "BOUCICAUT",
+                "coordinates": [
+                    2.28763431751091,
+                    48.8412408953716
+                ]
+            },
+            {
+                "id": "1925",
+                "station": "FELIX FAURE",
+                "coordinates": [
+                    2.29199788779218,
+                    48.8429772288922
+                ]
+            },
+            {
+                "id": "1973",
+                "station": "COMMERCE",
+                "coordinates": [
+                    2.29335345012085,
+                    48.844811191807
+                ]
+            },
+            {
+                "id": "1874",
+                "station": "LA MOTTE-PICQUET-GRENELLE",
+                "coordinates": [
+                    2.29794929910712,
+                    48.8491605024288
+                ]
+            },
+            {
+                "id": "1909",
+                "station": "ECOLE MILITAIRE",
+                "coordinates": [
+                    2.30554381620113,
+                    48.8545185491092
+                ]
+            },
+            {
+                "id": "54166",
+                "station": "LA TOUR-MAUBOURG",
+                "coordinates": [
+                    2.30959864479432,
+                    48.8573850541664
+                ]
+            },
+            {
+                "id": "1857",
+                "station": "INVALIDES",
+                "coordinates": [
+                    2.31435704324728,
+                    48.8616865404563
+                ]
+            },
+            {
+                "id": "1885",
+                "station": "CONCORDE",
+                "coordinates": [
+                    2.32329987859148,
+                    48.8661829956315
+                ]
+            },
+            {
+                "id": "1813",
+                "station": "MADELEINE",
+                "coordinates": [
+                    2.32516370025939,
+                    48.8700643517776
+                ]
+            },
+            {
+                "id": "1771",
+                "station": "OPERA",
+                "coordinates": [
+                    2.33180515640395,
+                    48.8707029411588
+                ]
+            },
+            {
+                "id": "1665",
+                "station": "RICHELIEU-DROUOT",
+                "coordinates": [
+                    2.33908809938486,
+                    48.8720139167525
+                ]
+            },
+            {
+                "id": "1671",
+                "station": "GRANDS BOULEVARDS",
+                "coordinates": [
+                    2.34319701067138,
+                    48.8714189081641
+                ]
+            },
+            {
+                "id": "2015",
+                "station": "BONNE NOUVELLE",
+                "coordinates": [
+                    2.34867956971335,
+                    48.8705587205312
+                ]
+            },
+            {
+                "id": "1679",
+                "station": "REPUBLIQUE",
+                "coordinates": [
+                    2.36366959820676,
+                    48.8674860390566
+                ]
+            },
+            {
+                "id": "1919",
+                "station": "FILLES DU CALVAIRE",
+                "coordinates": [
+                    2.36645313804373,
+                    48.8633028923386
+                ]
+            },
+            {
+                "id": "1699",
+                "station": "SAINT-SEBASTIEN-FROISSART",
+                "coordinates": [
+                    2.36702409525746,
+                    48.8612805878047
+                ]
+            },
+            {
+                "id": "1958",
+                "station": "CHEMIN VERT",
+                "coordinates": [
+                    2.36793452563335,
+                    48.8575640614859
+                ]
+            },
+            {
+                "id": "2000",
+                "station": "BASTILLE",
+                "coordinates": [
+                    2.36918060506559,
+                    48.8528417309667
+                ]
+            },
+            {
+                "id": "1798",
+                "station": "LEDRU-ROLLIN",
+                "coordinates": [
+                    2.37594535235887,
+                    48.8511941201646
+                ]
+            },
+            {
+                "id": "1917",
+                "station": "FAIDHERBE-CHALIGNY",
+                "coordinates": [
+                    2.38427458098634,
+                    48.8502384503521
+                ]
+            },
+            {
+                "id": "1662",
+                "station": "REUILLY-DIDEROT",
+                "coordinates": [
+                    2.38611818658013,
+                    48.8472381327386
+                ]
+            },
+            {
+                "id": "1750",
+                "station": "MONTGALLET",
+                "coordinates": [
+                    2.38980213751236,
+                    48.8442504626131
+                ]
+            },
+            {
+                "id": "1901",
+                "station": "DAUMESNIL",
+                "coordinates": [
+                    2.39584590805199,
+                    48.8393629125482
+                ]
+            },
+            {
+                "id": "1835",
+                "station": "MICHEL BIZOT",
+                "coordinates": [
+                    2.40296916119538,
+                    48.8367033669766
+                ]
+            },
+            {
+                "id": "1715",
+                "station": "PORTE DOREE",
+                "coordinates": [
+                    2.40601835314784,
+                    48.8354388891914
+                ]
+            },
+            {
+                "id": "1723",
+                "station": "PORTE DE CHARENTON",
+                "coordinates": [
+                    2.39970109937032,
+                    48.8325258939597
+                ]
+            },
+            {
+                "id": "1803",
+                "station": "LIBERTE",
+                "coordinates": [
+                    2.40692557755493,
+                    48.8258380800419
+                ]
+            },
+            {
+                "id": "1951",
+                "station": "CHARENTON-ECOLES",
+                "coordinates": [
+                    2.41407434683562,
+                    48.8213638104296
+                ]
+            },
+            {
+                "id": "23674",
+                "station": "ECOLE VETERINAIRE DE MAISONS-ALFORT",
+                "coordinates": [
+                    2.42075635931134,
+                    48.8151517942859
+                ]
+            },
+            {
+                "id": "21582",
+                "station": "MAISONS-ALFORT-STADE",
+                "coordinates": [
+                    2.43558220356454,
+                    48.8084176209203
+                ]
+            },
+            {
+                "id": "21583",
+                "station": "MAISONS-ALFORT-LES JUILLIOTTES",
+                "coordinates": [
+                    2.44499102669377,
+                    48.8031418697523
+                ]
+            },
+            {
+                "id": "1897",
+                "station": "CRETEIL-L'ECHAT",
+                "coordinates": [
+                    2.44906187102647,
+                    48.7964623870188
+                ]
+            },
+            {
+                "id": "1899",
+                "station": "CRETEIL-UNIVERSITE",
+                "coordinates": [
+                    2.45144739751129,
+                    48.7893506910917
+                ]
+            },
+            {
+                "id": "1898",
+                "station": "CRETEIL-PREFECTURE",
+                "coordinates": [
+                    2.45914426746537,
+                    48.7797484034104
+                ]
+            },
+            {
+                "id": "397629",
+                "station": "CRETEIL-POINTE DU LAC",
+                "coordinates": [
+                    2.46598982922341,
+                    48.7679578710506
+                ]
+            }
+        ]
+    },
+    {
+        "PROPERTIES": {
+            "ID": "9",
+            "NOM": "LIGNE 9"
+        },
+        "STATION": [
+            {
+                "id": "1710",
+                "station": "PONT DE SEVRES",
+                "coordinates": [
+                    2.23025364790437,
+                    48.8295929841028
+                ]
+            },
+            {
+                "id": "2006",
+                "station": "BILLANCOURT",
+                "coordinates": [
+                    2.23810999708736,
+                    48.8319437593265
+                ]
+            },
+            {
+                "id": "1829",
+                "station": "MARCEL SEMBAT",
+                "coordinates": [
+                    2.24408138825371,
+                    48.8339143013551
+                ]
+            },
+            {
+                "id": "1729",
+                "station": "PORTE DE SAINT-CLOUD",
+                "coordinates": [
+                    2.25680251499702,
+                    48.8378883866228
+                ]
+            },
+            {
+                "id": "1916",
+                "station": "EXELMANS",
+                "coordinates": [
+                    2.25973661579821,
+                    48.8424273379119
+                ]
+            },
+            {
+                "id": "1837",
+                "station": "MICHEL-ANGE-MOLITOR",
+                "coordinates": [
+                    2.26204786419272,
+                    48.844867436543
+                ]
+            },
+            {
+                "id": "1836",
+                "station": "MICHEL-ANGE-AUTEUIL",
+                "coordinates": [
+                    2.2642974417474,
+                    48.8477403459598
+                ]
+            },
+            {
+                "id": "1860",
+                "station": "JASMIN",
+                "coordinates": [
+                    2.26790681383725,
+                    48.8523396005309
+                ]
+            },
+            {
+                "id": "1659",
+                "station": "RANELAGH",
+                "coordinates": [
+                    2.26997975035107,
+                    48.8553920307943
+                ]
+            },
+            {
+                "id": "1876",
+                "station": "LA MUETTE",
+                "coordinates": [
+                    2.27411706697758,
+                    48.8579377398982
+                ]
+            },
+            {
+                "id": "1672",
+                "station": "RUE DE LA POMPE",
+                "coordinates": [
+                    2.27762632988678,
+                    48.8641004131629
+                ]
+            },
+            {
+                "id": "1639",
+                "station": "TROCADERO",
+                "coordinates": [
+                    2.2870198439694,
+                    48.8629708358403
+                ]
+            },
+            {
+                "id": "1858",
+                "station": "IENA",
+                "coordinates": [
+                    2.2937999591139,
+                    48.8644728974464
+                ]
+            },
+            {
+                "id": "1980",
+                "station": "ALMA-MARCEAU",
+                "coordinates": [
+                    2.30088336611718,
+                    48.8646460306735
+                ]
+            },
+            {
+                "id": "1696",
+                "station": "SAINT-PHILIPPE-DU-ROULE",
+                "coordinates": [
+                    2.30982009380661,
+                    48.8721798206485
+                ]
+            },
+            {
+                "id": "1747",
+                "station": "MIROMESNIL",
+                "coordinates": [
+                    2.31519918493339,
+                    48.8737063841262
+                ]
+            },
+            {
+                "id": "1681",
+                "station": "SAINT-AUGUSTIN",
+                "coordinates": [
+                    2.32043139650991,
+                    48.8746742716311
+                ]
+            },
+            {
+                "id": "1852",
+                "station": "HAVRE-CAUMARTIN",
+                "coordinates": [
+                    2.3285077502868,
+                    48.8733427700542
+                ]
+            },
+            {
+                "id": "1957",
+                "station": "CHAUSSEE D'ANTIN-LA FAYETTE",
+                "coordinates": [
+                    2.33350116136944,
+                    48.8728970365659
+                ]
+            },
+            {
+                "id": "1665",
+                "station": "RICHELIEU-DROUOT",
+                "coordinates": [
+                    2.33908809938486,
+                    48.8720139167525
+                ]
+            },
+            {
+                "id": "1671",
+                "station": "GRANDS BOULEVARDS",
+                "coordinates": [
+                    2.34319701067138,
+                    48.8714189081641
+                ]
+            },
+            {
+                "id": "2015",
+                "station": "BONNE NOUVELLE",
+                "coordinates": [
+                    2.34867956971335,
+                    48.8705587205312
+                ]
+            },
+            {
+                "id": "1628",
+                "station": "STRASBOURG-SAINT-DENIS",
+                "coordinates": [
+                    2.35409710573389,
+                    48.8691997057755
+                ]
+            },
+            {
+                "id": "1679",
+                "station": "REPUBLIQUE",
+                "coordinates": [
+                    2.36366959820676,
+                    48.8674860390566
+                ]
+            },
+            {
+                "id": "1769",
+                "station": "OBERKAMPF",
+                "coordinates": [
+                    2.36867423637139,
+                    48.8645156235565
+                ]
+            },
+            {
+                "id": "1680",
+                "station": "SAINT-AMBROISE",
+                "coordinates": [
+                    2.37409760383489,
+                    48.8612121032505
+                ]
+            },
+            {
+                "id": "1657",
+                "station": "VOLTAIRE",
+                "coordinates": [
+                    2.37988391957515,
+                    48.8578758428685
+                ]
+            },
+            {
+                "id": "1955",
+                "station": "CHARONNE",
+                "coordinates": [
+                    2.38527064781972,
+                    48.8547662368488
+                ]
+            },
+            {
+                "id": "1673",
+                "station": "RUE DES BOULETS",
+                "coordinates": [
+                    2.38914280457034,
+                    48.8521417733756
+                ]
+            },
+            {
+                "id": "1758",
+                "station": "NATION",
+                "coordinates": [
+                    2.39590574456544,
+                    48.8484657505532
+                ]
+            },
+            {
+                "id": "1937",
+                "station": "BUZENVAL",
+                "coordinates": [
+                    2.40102482535231,
+                    48.8517360615634
+                ]
+            },
+            {
+                "id": "55372",
+                "station": "MARAICHERS",
+                "coordinates": [
+                    2.40623072117296,
+                    48.8526633633247
+                ]
+            },
+            {
+                "id": "1727",
+                "station": "PORTE DE MONTREUIL",
+                "coordinates": [
+                    2.41043444867178,
+                    48.8534495044418
+                ]
+            },
+            {
+                "id": "1667",
+                "station": "ROBESPIERRE",
+                "coordinates": [
+                    2.42355673885079,
+                    48.85556400483
+                ]
+            },
+            {
+                "id": "1896",
+                "station": "CROIX DE CHAVAUX",
+                "coordinates": [
+                    2.43609830308268,
+                    48.8579269412394
+                ]
+            },
+            {
+                "id": "1817",
+                "station": "MAIRIE DE MONTREUIL",
+                "coordinates": [
+                    2.44165620310216,
+                    48.8623601850863
+                ]
+            }
+        ]
+    },
+    {
+        "PROPERTIES": {
+            "ID": "10",
+            "NOM": "LIGNE 10"
+        },
+        "STATION": [
+            {
+                "id": "2019",
+                "station": "BOULOGNE-PONT DE SAINT-CLOUD",
+                "coordinates": [
+                    2.22821129036639,
+                    48.8407983651067
+                ]
+            },
+            {
+                "id": "2018",
+                "station": "BOULOGNE-JEAN JAURES",
+                "coordinates": [
+                    2.23883585019659,
+                    48.8422216612984
+                ]
+            },
+            {
+                "id": "1717",
+                "station": "PORTE D'AUTEUIL",
+                "coordinates": [
+                    2.25864782764785,
+                    48.8480737822692
+                ]
+            },
+            {
+                "id": "1837",
+                "station": "MICHEL-ANGE-MOLITOR",
+                "coordinates": [
+                    2.26204786419272,
+                    48.844867436543
+                ]
+            },
+            {
+                "id": "1836",
+                "station": "MICHEL-ANGE-AUTEUIL",
+                "coordinates": [
+                    2.2642974417474,
+                    48.8477403459598
+                ]
+            },
+            {
+                "id": "1950",
+                "station": "CHARDON-LAGACHE",
+                "coordinates": [
+                    2.26654168725371,
+                    48.8447174018404
+                ]
+            },
+            {
+                "id": "1911",
+                "station": "EGLISE D'AUTEUIL",
+                "coordinates": [
+                    2.26890098784783,
+                    48.8471813581933
+                ]
+            },
+            {
+                "id": "1746",
+                "station": "MIRABEAU",
+                "coordinates": [
+                    2.27340595925819,
+                    48.8473396417237
+                ]
+            },
+            {
+                "id": "1862",
+                "station": "JAVEL-ANDRE CITROEN",
+                "coordinates": [
+                    2.27845497841475,
+                    48.8461034637876
+                ]
+            },
+            {
+                "id": "1952",
+                "station": "CHARLES MICHELS",
+                "coordinates": [
+                    2.28633238561987,
+                    48.8463362741362
+                ]
+            },
+            {
+                "id": "1994",
+                "station": "AVENUE EMILE ZOLA",
+                "coordinates": [
+                    2.29493807524416,
+                    48.8469642745973
+                ]
+            },
+            {
+                "id": "1874",
+                "station": "LA MOTTE-PICQUET-GRENELLE",
+                "coordinates": [
+                    2.29794929910712,
+                    48.8491605024288
+                ]
+            },
+            {
+                "id": "1631",
+                "station": "SEGUR",
+                "coordinates": [
+                    2.30782041849586,
+                    48.8467524550776
+                ]
+            },
+            {
+                "id": "1643",
+                "station": "VANEAU",
+                "coordinates": [
+                    2.32193434751113,
+                    48.848871662506
+                ]
+            },
+            {
+                "id": "1632",
+                "station": "SEVRES-BABYLONE",
+                "coordinates": [
+                    2.32587286292213,
+                    48.8512043552606
+                ]
+            },
+            {
+                "id": "1812",
+                "station": "MABILLON",
+                "coordinates": [
+                    2.33540928887416,
+                    48.8528181349058
+                ]
+            },
+            {
+                "id": "1770",
+                "station": "ODEON",
+                "coordinates": [
+                    2.33855755868422,
+                    48.8522489363668
+                ]
+            },
+            {
+                "id": "54244",
+                "station": "CLUNY LA SORBONNE",
+                "coordinates": [
+                    2.34522158237992,
+                    48.8510383641319
+                ]
+            },
+            {
+                "id": "1834",
+                "station": "MAUBERT-MUTUALITE",
+                "coordinates": [
+                    2.34850342965795,
+                    48.8499086726722
+                ]
+            },
+            {
+                "id": "1942",
+                "station": "CARDINAL LEMOINE",
+                "coordinates": [
+                    2.35147807315592,
+                    48.8463912485782
+                ]
+            },
+            {
+                "id": "1866",
+                "station": "JUSSIEU",
+                "coordinates": [
+                    2.35469159842714,
+                    48.8458380895278
+                ]
+            },
+            {
+                "id": "1838",
+                "station": "GARE D'AUSTERLITZ",
+                "coordinates": [
+                    2.36431304821499,
+                    48.8431055835176
+                ]
+            }
+        ]
+    },
+    {
+        "PROPERTIES": {
+            "ID": "11",
+            "NOM": "LIGNE 11"
+        },
+        "STATION": [
+            {
+                "id": "1964",
+                "station": "CHATELET",
+                "coordinates": [
+                    2.34711940104793,
+                    48.8585195224421
+                ]
+            },
+            {
+                "id": "1855",
+                "station": "HOTEL DE VILLE",
+                "coordinates": [
+                    2.35149453979435,
+                    48.8567695272423
+                ]
+            },
+            {
+                "id": "1745",
+                "station": "RAMBUTEAU",
+                "coordinates": [
+                    2.35350496222254,
+                    48.8614000355035
+                ]
+            },
+            {
+                "id": "1988",
+                "station": "ARTS ET METIERS",
+                "coordinates": [
+                    2.35637778086357,
+                    48.8652929436681
+                ]
+            },
+            {
+                "id": "1679",
+                "station": "REPUBLIQUE",
+                "coordinates": [
+                    2.36366959820676,
+                    48.8674860390566
+                ]
+            },
+            {
+                "id": "1849",
+                "station": "GONCOURT",
+                "coordinates": [
+                    2.3712726500969,
+                    48.8696803933807
+                ]
+            },
+            {
+                "id": "2004",
+                "station": "BELLEVILLE",
+                "coordinates": [
+                    2.37680560769084,
+                    48.8720416041714
+                ]
+            },
+            {
+                "id": "55330",
+                "station": "PYRENEES",
+                "coordinates": [
+                    2.38488983901602,
+                    48.8738907818268
+                ]
+            },
+            {
+                "id": "1864",
+                "station": "JOURDAIN",
+                "coordinates": [
+                    2.38919309981893,
+                    48.8751674276782
+                ]
+            },
+            {
+                "id": "1792",
+                "station": "PLACE DES FETES",
+                "coordinates": [
+                    2.39347313514395,
+                    48.8768191471423
+                ]
+            },
+            {
+                "id": "55329",
+                "station": "TELEGRAPHE",
+                "coordinates": [
+                    2.3985900637686,
+                    48.8753936353787
+                ]
+            },
+            {
+                "id": "1736",
+                "station": "PORTE DES LILAS",
+                "coordinates": [
+                    2.40638582344912,
+                    48.8770699912197
+                ]
+            },
+            {
+                "id": "1819",
+                "station": "MAIRIE DES LILAS",
+                "coordinates": [
+                    2.41623893515656,
+                    48.8797989953663
+                ]
+            }
+        ]
+    },
+    {
+        "PROPERTIES": {
+            "ID": "12",
+            "NOM": "LIGNE 12"
+        },
+        "STATION": [
+            {
+                "id": "1814",
+                "station": "MAIRIE D'ISSY",
+                "coordinates": [
+                    2.27350399984748,
+                    48.8248138108686
+                ]
+            },
+            {
+                "id": "1889",
+                "station": "CORENTIN CELTON",
+                "coordinates": [
+                    2.27930670368976,
+                    48.8272434444069
+                ]
+            },
+            {
+                "id": "1732",
+                "station": "PORTE DE VERSAILLES",
+                "coordinates": [
+                    2.28800279639373,
+                    48.8324619819728
+                ]
+            },
+            {
+                "id": "1887",
+                "station": "CONVENTION",
+                "coordinates": [
+                    2.29689958279762,
+                    48.8374696207371
+                ]
+            },
+            {
+                "id": "1645",
+                "station": "VAUGIRARD",
+                "coordinates": [
+                    2.30098263992519,
+                    48.839568032804
+                ]
+            },
+            {
+                "id": "1656",
+                "station": "VOLONTAIRES",
+                "coordinates": [
+                    2.30804114557479,
+                    48.8416970273909
+                ]
+            },
+            {
+                "id": "1781",
+                "station": "PASTEUR",
+                "coordinates": [
+                    2.31265644504969,
+                    48.8429383503106
+                ]
+            },
+            {
+                "id": "1918",
+                "station": "FALGUIERE",
+                "coordinates": [
+                    2.31749646866691,
+                    48.844637894177
+                ]
+            },
+            {
+                "id": "1751",
+                "station": "MONTPARNASSE-BIENVENUE",
+                "coordinates": [
+                    2.32263505064878,
+                    48.8430428502558
+                ]
+            },
+            {
+                "id": "1768",
+                "station": "NOTRE-DAME-DES-CHAMPS",
+                "coordinates": [
+                    2.32885296806704,
+                    48.8449178498434
+                ]
+            },
+            {
+                "id": "1661",
+                "station": "RENNES",
+                "coordinates": [
+                    2.32808305123987,
+                    48.8480544328681
+                ]
+            },
+            {
+                "id": "1632",
+                "station": "SEVRES-BABYLONE",
+                "coordinates": [
+                    2.32587286292213,
+                    48.8512043552606
+                ]
+            },
+            {
+                "id": "1674",
+                "station": "RUE DU BAC",
+                "coordinates": [
+                    2.32556882179391,
+                    48.8557564721823
+                ]
+            },
+            {
+                "id": "1622",
+                "station": "SOLFERINO",
+                "coordinates": [
+                    2.32268062216292,
+                    48.8585512442859
+                ]
+            },
+            {
+                "id": "1989",
+                "station": "ASSEMBLEE NATIONALE",
+                "coordinates": [
+                    2.32063223779825,
+                    48.8608996856827
+                ]
+            },
+            {
+                "id": "1885",
+                "station": "CONCORDE",
+                "coordinates": [
+                    2.32329987859148,
+                    48.8661829956315
+                ]
+            },
+            {
+                "id": "1813",
+                "station": "MADELEINE",
+                "coordinates": [
+                    2.32516370025939,
+                    48.8700643517776
+                ]
+            },
+            {
+                "id": "1689",
+                "station": "SAINT-LAZARE",
+                "coordinates": [
+                    2.326185658552,
+                    48.8755778691635
+                ]
+            },
+            {
+                "id": "1638",
+                "station": "TRINITE-D'ESTIENNE D'ORVES",
+                "coordinates": [
+                    2.33305807671909,
+                    48.87650879316
+                ]
+            },
+            {
+                "id": "1767",
+                "station": "NOTRE-DAME-DE-LORETTE",
+                "coordinates": [
+                    2.33845371043763,
+                    48.8766256956919
+                ]
+            },
+            {
+                "id": "1686",
+                "station": "SAINT-GEORGES",
+                "coordinates": [
+                    2.33758851215148,
+                    48.8785085363002
+                ]
+            },
+            {
+                "id": "1787",
+                "station": "PIGALLE",
+                "coordinates": [
+                    2.3376226051814,
+                    48.8824943850352
+                ]
+            },
+            {
+                "id": "1975",
+                "station": "ABBESSES",
+                "coordinates": [
+                    2.33871281165883,
+                    48.8844176451841
+                ]
+            },
+            {
+                "id": "1879",
+                "station": "LAMARCK-CAULAINCOURT",
+                "coordinates": [
+                    2.33889013654466,
+                    48.8897560451806
+                ]
+            },
+            {
+                "id": "1865",
+                "station": "JULES JOFFRIN",
+                "coordinates": [
+                    2.34446469630622,
+                    48.8924519921638
+                ]
+            },
+            {
+                "id": "1828",
+                "station": "MARCADET-POISSONNIERS",
+                "coordinates": [
+                    2.34983707163005,
+                    48.8908769929214
+                ]
+            },
+            {
+                "id": "1831",
+                "station": "MARX DORMOY",
+                "coordinates": [
+                    2.36020584275635,
+                    48.8903020649568
+                ]
+            },
+            {
+                "id": "1734",
+                "station": "PORTE DE LA CHAPELLE",
+                "coordinates": [
+                    2.35909154194382,
+                    48.8980716716703
+                ]
+            },
+            {
+                "id": "454595",
+                "station": "FRONT POPULAIRE",
+                "coordinates": [
+                    2.36587539174522,
+                    48.9065795187205
+                ]
+            }
+        ]
+    },
+    {
+        "PROPERTIES": {
+            "ID": "13",
+            "NOM": "LIGNE 13"
+        },
+        "STATION": [
+            {
+                "id": "1968",
+                "station": "CHATILLON-MONTROUGE",
+                "coordinates": [
+                    2.30124802198432,
+                    48.8103147675511
+                ]
+            },
+            {
+                "id": "22441",
+                "station": "MALAKOFF-RUE ETIENNE DOLET",
+                "coordinates": [
+                    2.29699896350216,
+                    48.8146679725106
+                ]
+            },
+            {
+                "id": "22442",
+                "station": "MALAKOFF-PLATEAU DE VANVES",
+                "coordinates": [
+                    2.29701508516275,
+                    48.8231314024501
+                ]
+            },
+            {
+                "id": "1731",
+                "station": "PORTE DE VANVES",
+                "coordinates": [
+                    2.30534014881766,
+                    48.8276756893336
+                ]
+            },
+            {
+                "id": "1705",
+                "station": "PLAISANCE",
+                "coordinates": [
+                    2.31406734480211,
+                    48.8317625860832
+                ]
+            },
+            {
+                "id": "1783",
+                "station": "PERNETY",
+                "coordinates": [
+                    2.31766395823272,
+                    48.8338169001883
+                ]
+            },
+            {
+                "id": "1927",
+                "station": "GAITE",
+                "coordinates": [
+                    2.32258277982791,
+                    48.8384911503461
+                ]
+            },
+            {
+                "id": "1751",
+                "station": "MONTPARNASSE-BIENVENUE",
+                "coordinates": [
+                    2.32263505064878,
+                    48.8430428502558
+                ]
+            },
+            {
+                "id": "1908",
+                "station": "DUROC",
+                "coordinates": [
+                    2.31672285703746,
+                    48.8467835319339
+                ]
+            },
+            {
+                "id": "1685",
+                "station": "SAINT-FRANCOIS-XAVIER",
+                "coordinates": [
+                    2.31403452688812,
+                    48.8518632147979
+                ]
+            },
+            {
+                "id": "1644",
+                "station": "VARENNE",
+                "coordinates": [
+                    2.31553023354222,
+                    48.8575166012889
+                ]
+            },
+            {
+                "id": "1857",
+                "station": "INVALIDES",
+                "coordinates": [
+                    2.31435704324728,
+                    48.8616865404563
+                ]
+            },
+            {
+                "id": "1949",
+                "station": "CHAMPS-ELYSEES-CLEMENCEAU",
+                "coordinates": [
+                    2.31395945009909,
+                    48.8674114214171
+                ]
+            },
+            {
+                "id": "1747",
+                "station": "MIROMESNIL",
+                "coordinates": [
+                    2.31519918493339,
+                    48.8737063841262
+                ]
+            },
+            {
+                "id": "1689",
+                "station": "SAINT-LAZARE",
+                "coordinates": [
+                    2.326185658552,
+                    48.8755778691635
+                ]
+            },
+            {
+                "id": "1804",
+                "station": "LIEGE",
+                "coordinates": [
+                    2.32651728518985,
+                    48.8795640572124
+                ]
+            },
+            {
+                "id": "1790",
+                "station": "PLACE CLICHY",
+                "coordinates": [
+                    2.32730682210246,
+                    48.8836233671973
+                ]
+            },
+            {
+                "id": "1872",
+                "station": "LA FOURCHE",
+                "coordinates": [
+                    2.32603867708385,
+                    48.8873918956469
+                ]
+            },
+            {
+                "id": "1851",
+                "station": "GUY MOQUET",
+                "coordinates": [
+                    2.32722675495985,
+                    48.8924675161233
+                ]
+            },
+            {
+                "id": "1730",
+                "station": "PORTE DE SAINT-OUEN",
+                "coordinates": [
+                    2.32883766969025,
+                    48.8972510523147
+                ]
+            },
+            {
+                "id": "1844",
+                "station": "GARIBALDI",
+                "coordinates": [
+                    2.33173327604333,
+                    48.9060316197727
+                ]
+            },
+            {
+                "id": "1818",
+                "station": "MAIRIE DE SAINT-OUEN",
+                "coordinates": [
+                    2.334163015407,
+                    48.9120620157054
+                ]
+            },
+            {
+                "id": "228266",
+                "station": "CARREFOUR PLEYEL",
+                "coordinates": [
+                    2.34320024908898,
+                    48.9194552102366
+                ]
+            },
+            {
+                "id": "22439",
+                "station": "SAINT-DENIS-PORTE DE PARIS",
+                "coordinates": [
+                    2.35741016429387,
+                    48.9296276098426
+                ]
+            },
+            {
+                "id": "50622",
+                "station": "BASILIQUE DE SAINT-DENIS",
+                "coordinates": [
+                    2.35941471750625,
+                    48.9366033097107
+                ]
+            },
+            {
+                "id": "50399",
+                "station": "SAINT-DENIS-UNIVERSITE",
+                "coordinates": [
+                    2.36235875823436,
+                    48.9456254805762
+                ]
+            }
+        ]
+    },
+    {
+        "PROPERTIES": {
+            "ID": "13",
+            "NOM": "LIGNE 13"
+        },
+        "STATION": [
+            {
+                "id": "1872",
+                "station": "LA FOURCHE",
+                "coordinates": [
+                    2.32603867708385,
+                    48.8873918956469
+                ]
+            },
+            {
+                "id": "1931",
+                "station": "BROCHANT",
+                "coordinates": [
+                    2.32002765158099,
+                    48.8903794211931
+                ]
+            },
+            {
+                "id": "1725",
+                "station": "PORTE DE CLICHY",
+                "coordinates": [
+                    2.31373834378485,
+                    48.8943611610735
+                ]
+            },
+            {
+                "id": "1816",
+                "station": "MAIRIE DE CLICHY",
+                "coordinates": [
+                    2.30556600125528,
+                    48.9036594416322
+                ]
+            },
+            {
+                "id": "22443",
+                "station": "GABRIEL PERI",
+                "coordinates": [
+                    2.29492376422254,
+                    48.9162335021232
+                ]
+            },
+            {
+                "id": "225436",
+                "station": "LES AGNETTES",
+                "coordinates": [
+                    2.28582751788663,
+                    48.9229162320519
+                ]
+            },
+            {
+                "id": "225437",
+                "station": "ASNIERES-GENNEVILLIERS",
+                "coordinates": [
+                    2.284074,
+                    48.930163
+                ]
+            }
+        ]
+    },
+    {
+        "PROPERTIES": {
+            "ID": "14",
+            "NOM": "LIGNE 14"
+        },
+        "STATION": [
+            {
+                "id": "171507",
+                "station": "OLYMPIADES",
+                "coordinates": [
+                    2.36729701204889,
+                    48.8268582996999
+                ]
+            },
+            {
+                "id": "51020",
+                "station": "BIBLIOTHEQUE",
+                "coordinates": [
+                    2.376092,
+                    48.829605
+                ]
+            },
+            {
+                "id": "50055",
+                "station": "COUR SAINT-EMILION",
+                "coordinates": [
+                    2.38761298844824,
+                    48.8334843071503
+                ]
+            },
+            {
+                "id": "2005",
+                "station": "BERCY",
+                "coordinates": [
+                    2.37958296880394,
+                    48.8404280893475
+                ]
+            },
+            {
+                "id": "1839",
+                "station": "GARE DE LYON ",
+                "coordinates": [
+                    2.37406590751466,
+                    48.8447045450658
+                ]
+            },
+            {
+                "id": "1964",
+                "station": "CHATELET",
+                "coordinates": [
+                    2.34711940104793,
+                    48.8585195224421
+                ]
+            },
+            {
+                "id": "1738",
+                "station": "PYRAMIDES",
+                "coordinates": [
+                    2.33366506577888,
+                    48.8669463020695
+                ]
+            },
+            {
+                "id": "1813",
+                "station": "MADELEINE",
+                "coordinates": [
+                    2.32516370025939,
+                    48.8700643517776
+                ]
+            },
+            {
+                "id": "1689",
+                "station": "SAINT-LAZARE",
+                "coordinates": [
+                    2.326185658552,
+                    48.8755778691635
+                ]
+            }
+        ]
+    }
+]
